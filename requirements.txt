@@ -5,3 +5,9 @@ langchain
 python-dotenv
 ipykernel
 langchain-community
+pinecone
+langchain_huggingface
+sentence_transformers
+torch
+transformers
+langchain_pinecone
