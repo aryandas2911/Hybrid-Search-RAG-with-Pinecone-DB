@@ -1,0 +1,7 @@
+pinecone-client
+pinecone-text
+pinecone-notebooks
+langchain
+python-dotenv
+ipykernel
+langchain-community
